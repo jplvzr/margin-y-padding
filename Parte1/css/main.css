@@ -1,1 +1,12 @@
-/* Agrega aqui tu CSS */
+div {
+	margin: 50px;
+}
+.contenido {
+	border-style: solid;
+	border-color: orange;
+	width: 200px;
+	height: 150px;
+}
+p {
+	padding: auto;
+}
