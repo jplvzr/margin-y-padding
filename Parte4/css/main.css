@@ -1,1 +1,24 @@
-/* Agrega aqui tu CSS */
+div {
+	margin: auto;
+}
+.part1 {
+	border-style: solid;
+	border-color: orange;
+	width: 200px;
+	height: 150px;
+}
+.part2 {
+	border-style: solid;
+	border-color: orange;
+	width: 200px;
+	height: 150px;
+}
+.part3 {
+	border-style: solid;
+	border-color: orange;
+	width: 200px;
+	height: 150px;
+}
+p {
+	padding: 0px;
+}
